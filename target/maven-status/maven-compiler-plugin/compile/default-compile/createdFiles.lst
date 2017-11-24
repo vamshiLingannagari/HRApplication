@@ -1,0 +1,5 @@
+com\diyaarya\HRApplication\HRApplication.class
+com\diyaarya\HRApplication\model\Employee.class
+com\diyaarya\HRApplication\controller\HRRestController.class
+com\diyaarya\HRApplication\Repository\HRRepository.class
+com\diyaarya\HRApplication\services\EmployeeService.class
